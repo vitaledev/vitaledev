@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://github.com/vitaledev">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=35&pause=1000&color=FFFFFF&width=500&lines=Ol%C3%A1+%F0%9F%91%8B;Bem-vindo+ao+meu+perfil!;Dev+Iniciante+focado+em+evolu%C3%A7%C3%A3o." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=35&pause=1000&color=FFFFFF&width=500&lines=Ol%C3%A1+%F0%9F%91%8B;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
   </a>
 </div>
 
