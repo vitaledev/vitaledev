@@ -21,9 +21,9 @@ Ferramentas e linguagens que tenho utilizado nos meus projetos:
 ---
 
 ### 📊 Minhas Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitaledev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaledev&layout=compact&theme=dracula"/>
-</div>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitaledev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaledev&layout=compact&theme=dracula)
 
 ---
