@@ -1,14 +1,20 @@
 <div align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" align="right" />
+
   <a href="https://github.com/vitaledev">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=35&pause=1000&color=FFFFFF&width=500&lines=Ol%C3%A1+%F0%9F%91%8B;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=35&pause=1000&color=FFFFFF&width=450&lines=Ol%C3%A1+%F0%9F%91%8B;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
   </a>
+
+  <br/>
+
+  Sou um desenvolvedor iniciante focado em evoluir minhas habilidades em desenvolvimento Web e Backend. Atualmente, estou transformando estudos teóricos em projetos práticos todos os dias.
+
+  - 🔭 Trabalhando atualmente em: **Projetos de automação e Web Apps**
+  - 📚 Estudando: **Python, Java e JavaScript**
+  - 🎯 Objetivo: **Minha primeira vaga de estágio como Dev**
 </div>
 
-Sou um desenvolvedor iniciante focado em evoluir minhas habilidades em desenvolvimento Web e Backend. Atualmente, estou transformando estudos teóricos em projetos práticos todos os dias.
-
-- 🔭 Trabalhando atualmente em: **Projetos de automação e Web Apps**
-- 📚 Estudando: **Python, Java e JavaScript**
-- 🎯 Objetivo: **Minha primeira vaga de estágio como Dev**
+<br clear="left"/>
 
 ---
 
