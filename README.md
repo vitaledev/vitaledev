@@ -1,16 +1,15 @@
 <div align="center">
 
 # Olá, eu sou o Agnaldo Batista 👋
-### `Desenvolvedor Front-end & Creative Technologist`
+### `Full Stack Developer & AI Engineer`
 
 <a href="https://github.com/vitaledev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=550&height=50&lines=Desenvolvedor+Front-end+%26+UI%2FUX;Criador+%26+Dev+do+VitaleGeo;React+%7C+TypeScript+%7C+Python+%7C+IA;Audiovisual+%26+Tecnologia+Criativa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=550&height=50&lines=Full+Stack+Developer+%26+AI+Engineer;Engenharia+de+Software+%26+IA+Aplicada;LLMs%2C+Agentes+Aut%C3%B4nomos+%26+RAG;Pesquisa+em+Rob%C3%B3tica+%26+Sistemas;Criador+%26+Dev+do+VitaleGeo" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="https://vitalegeo.com.br"><img src="https://img.shields.io/badge/Website-vitalegeo.com.br-E63946?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VitaleGeo Website" /></a>
   <a href="mailto:agnaldotgt@gmail.com"><img src="https://img.shields.io/badge/Email-agnaldotgt@gmail.com-1F2428?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/vitaledev"><img src="https://img.shields.io/badge/GitHub-vitaledev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
@@ -19,66 +18,52 @@
 
 ### ⚡ Sobre Mim
 
-Desenvolvedor focado em unir **engenharia front-end**, **experiências visuais interativas** e **inteligência artificial aplicada**. 
+Desenvolvedor **Full Stack** e **Engenheiro de IA**, focado na construção de aplicações ponta a ponta que combinam arquitetura sólida de software, inteligência artificial aplicada e interfaces modernas.
 
-Atuo no desenvolvimento de interfaces modernas e responsivas, criação de web apps dinâmicos e automações com IA. Sou o criador do **[VitaleGeo](https://vitalegeo.com.br)** — uma plataforma digital focada em geopolítica, visualização cartográfica de dados e ferramentas interativas.
+Tenho experiência prática no desenvolvimento de sistemas web completos, automações avançadas e integração de modelos de linguagem (LLMs). Sou o criador do **[VitaleGeo](https://vitalegeo.com.br)**, plataforma digital dedicada à geopolítica, cartografia interativa e análise de dados.
 
-- 💼 **Atuação atual:** Desenvolvimento Front-end & Marketing Digital na **Netcare**.
-- 🚀 **Projeto em destaque:** Fundador e desenvolvedor do portal **VitaleGeo** ([site-vitale-geo](https://github.com/vitaledev/site-vitale-geo)).
-- 🎓 **Formação acadêmica:** Cursando **Análise e Desenvolvimento de Sistemas** (PUC) e **Marketing** (Unicive).
+- 💻 **Atuação:** Desenvolvimento Full Stack, Arquitetura de Software e Engenharia de IA.
+- 🚀 **Projeto:** Criador e desenvolvedor do portal **[VitaleGeo](https://vitalegeo.com.br)**.
+- 🤖 **Interesse em Robótica:** Foco contínuo e pesquisa em **Robótica, Visão Computacional, Sistemas Autônomos e Computação Embarcada**.
 - 📍 **Localização:** Maringá - PR, Brasil.
-- 🎯 **Foco técnico:** Arquitetura de interfaces com React e TypeScript, ferramentas com IA, design interativo e produtos digitais de alta performance.
 
 ---
 
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Stack | Acesso |
-| :--- | :--- | :--- | :---: |
-| 🌍 **[VitaleGeo](https://github.com/vitaledev/site-vitale-geo)** | Portal interativo de geopolítica, dados territoriais e análises cartográficas. | `HTML5` `CSS3 / UI Craft` `JavaScript` `SEO` | [Visitar Web 🔗](https://vitalegeo.com.br) |
-| ⏱️ **[Frutiger Pomodoro](https://github.com/vitaledev/frutiger-pomodoro)** | Pomodoro timer conceitual e imersivo com estética *Frutiger Aero*, som e microinterações. | `Frontend UI` `Web Audio` `Design Interativo` | [Ver Código 📦](https://github.com/vitaledev/frutiger-pomodoro) |
-| 🎮 **[Duelo da Memória](https://github.com/vitaledev/duelo-da-memoria)** | Jogo mobile interativo de duelo cognitivo e reflexos com mecânicas em tempo real. | `React Native` `TypeScript` `Mobile Android` | [Ver Código 📦](https://github.com/vitaledev/duelo-da-memoria) |
-| 🗺️ **[O Verdadeiro Tamanho dos Países](https://github.com/vitaledev/o-verdadeiro-tamanho-dos-paises)** | Ferramenta cartográfica para comparação de proporção real de países sem distorções de projeção. | `JavaScript` `Cartografia` `Visualização de Dados` | [Ver Código 📦](https://github.com/vitaledev/o-verdadeiro-tamanho-dos-paises) |
-| 🪄 **[Removedor de Fundos](https://github.com/vitaledev/removedor-de-fundos)** | Web app client-side para processamento e recorte de imagens diretamente no navegador. | `JavaScript` `Canvas API` `Image Processing` | [Ver Código 📦](https://github.com/vitaledev/removedor-de-fundos) |
-| ⚡ **[YouTube Link Extractor](https://github.com/vitaledev/youtube-link-extractor)** | Utilitário e automação em Python para extração de metadados, validação e manipulação de mídias. | `Python` `Automação` `CLI Tools` | [Ver Código 📦](https://github.com/vitaledev/youtube-link-extractor) |
-
----
-
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,python,docker,git,github,mysql,firebase,figma,ae,pr&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,opencv,ros,arduino,raspberrypi,ts,js,nodejs,react,tailwind,docker,linux,bash,postgres,mysql,git&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br/>
 
 <details open>
-<summary><b>📂 Ver arsenal detalhado por especialidade</b></summary>
+<summary><b>🧠 Inteligência Artificial, Machine Learning & Robótica</b></summary>
 <br/>
 
-- **Front-end & Mobile:** React, React Native, TypeScript, JavaScript (ES6+), Tailwind CSS, Vite, HTML5 Semântico, CSS3 Avançado, Responsividade & UI/UX Craft.
-- **Back-end & Dados:** Node.js, Python, MySQL, Firebase, RESTful APIs, JSON, Integrações de microsserviços.
-- **Automação & IA:** Workflows com n8n, Integrações de APIs de LLM (Gemini, Claude, OpenAI), Git & GitHub Actions, Docker.
-- **Creative Tech & Audiovisual:** After Effects, GeoLayers (cartografia e mapas animados em 4K), Premiere Pro, Photoshop, Figma, Sound & Motion Design.
+- **Engenharia de IA & LLMs:** Integração de APIs de ponta (Google Gemini, OpenAI GPT-4, Anthropic Claude), Hugging Face Transformers, Fine-Tuning e Prompt Engineering avançado.
+- **Frameworks & Agentes:** LangChain, LlamaIndex, Model Context Protocol (MCP), Agentes Autônomos, Arquitetura RAG (Retrieval-Augmented Generation) e Vector Databases (ChromaDB, Pinecone).
+- **Machine Learning & Visão Computacional:** PyTorch, Scikit-Learn, OpenCV, NumPy, Pandas, processamento de sinais e imagens.
+- **Automação Inteligente:** Pipelines de dados com n8n, webhooks, processamento em lote e bots interativos.
+- **Robótica & Sistemas Autônomos (Pesquisa & Futuro):** ROS (Robot Operating System), Arduino, Raspberry Pi, microcontroladores, cinemática, sensoriamento e integração hardware-software com IA.
+
+</details>
+
+<details open>
+<summary><b>⚡ Desenvolvimento Full Stack & Infraestrutura</b></summary>
+<br/>
+
+- **Back-end & APIs:** Python, Node.js, TypeScript, RESTful APIs, microsserviços, autenticação e arquitetura orientada a eventos.
+- **Front-end & Mobile:** React, React Native, TypeScript, JavaScript (ES6+), Tailwind CSS, Vite, HTML5 Semântico, CSS3 Moderno, interfaces responsivas e UI/UX Craft.
+- **Bancos de Dados:** PostgreSQL, MySQL, Firebase, modelagem relacional e vetorial.
+- **DevOps, Ferramentas & SO:** Docker, Linux / Bash, Git, GitHub Actions, CI/CD, ambientes conteinerizados.
 
 </details>
 
 ---
 
-### 📊 Métricas & Estatísticas
+### 📊 Linguagens Mais Utilizadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitaledev&show_icons=true&bg_color=0d1117&title_color=e63946&text_color=c9d1d9&icon_color=e63946&border_color=30363d&hide_border=false" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaledev&layout=compact&bg_color=0d1117&title_color=e63946&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitaledev&theme=dark&background=0d1117&border=30363d&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <sub>Construído com código limpo, foco em experiência do usuário e criatividade contínua. 🚀</sub>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaledev&layout=compact&hide=html&bg_color=0d1117&title_color=e63946&text_color=c9d1d9&border_color=30363d&hide_border=false" height="175" alt="Top Languages" />
 </div>
